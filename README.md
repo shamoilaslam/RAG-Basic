@@ -483,13 +483,3 @@ If you want me to commit and push these changes for you, provide the remote URL 
 3. Make your changes
 4. Submit a pull request
 
-## License
-
-MIT License - see LICENSE file for details
-
-## Support
-
-For issues and questions:
-- GitHub Issues: [Create an issue]
-- Email: support@example.com
-- Documentation: [Wiki]
